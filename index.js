@@ -43,12 +43,31 @@
 // let forSale = true;
 // console.log(`Is this car for sale ${forSale}`);
 
-let fullName = "debo";
-let age = 25;
-let student = false;
+// let fullName = "debo";
+// let age = 25;
+// let student = false;
 
-document.getElementById("p1").textContent = `My name is ${fullName}`;
-document.getElementById("p2").textContent = `My age is ${age}`
-document.getElementById("p3").textContent = `Enrolled ${student}`;
+// document.getElementById("p1").textContent = `My name is ${fullName}`;
+// document.getElementById("p2").textContent = `My age is ${age}`
+// document.getElementById("p3").textContent = `Enrolled ${student}`;
 
 
+
+// All about Arithmetic Operators
+
+// let students = 20;
+
+// student = student + 1;
+// 
+
+// let extraStudent =  student % 2;
+// students = students ** 3;
+
+// students *=2;
+
+// console.log(students);
+
+// Operator Precendence
+
+// let result = (1 + 2) * (3 + 4);
+// console.log(result);
