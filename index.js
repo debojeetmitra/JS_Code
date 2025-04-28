@@ -7,7 +7,7 @@
 // // This is a Comment
 
 // document.getElementById("myH1").textContent = "Hello";
-// document.getElementById("myP").textContent = 'I love you Shreya';
+// document.getElementById("myP").textContent = 'Dhiman';
 
 
 
