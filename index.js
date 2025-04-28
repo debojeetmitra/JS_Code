@@ -1,8 +1,8 @@
 // console.log(`Hello`);
-// console.log(`I love you shreya`);
+// console.log(`Dhiman`);
 
 // window.alert(`This is an alert`);
-// window.alert(`I love you shreya`);
+// window.alert(`Dhiman`);
 
 // // This is a Comment
 
