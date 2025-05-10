@@ -1,4 +1,27 @@
-body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 2em;
+/* #myDiv{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+} */
+
+/* 
+#innerDiv{
+    background-color: lightskyblue;
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+}
+
+
+
+
+#outerDiv{
+    background-color: lightskyblue;
+    width: 200px;
+    height: 200px;
+} */
+
+#myImg{
+    width: 300px;
+    display: none;
 }
